@@ -1,0 +1,1515 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Jeric Castillo Yambot</title>
+  <meta name="description" content="Online Curriculum Vitae - portfolio of Jeric Yambot">
+  <meta name="keywords" content="Webmaster,Web Developer, Philippines, Website Designer, SEO, Freelancer, WordPress, Fullstack">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: iPortfolio - v5.0.1
+  * Template URL: 
+  * Author: Jeric Castillo Yambot
+  * License: 
+  ======================================================== -->
+
+</head>
+
+<body id="content" class="fade-in">
+
+  <!-- ======= Mobile nav toggle button ======= -->
+  <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+    <div class="d-flex flex-column">
+
+      <div class="profile">
+        <img src="assets/img/NEW-PROF2.png" alt="" class="img-fluid rounded-circle">
+        <h1 class="text-light"><a href="index.html">Web Developer</a></h1>
+        <div class="social-links mt-3 text-center">
+         <!--  <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a> -->
+        <!--   <a href="www.facebook.com/yamofthewall" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a> -->
+          <a href="https://www.behance.net/jericyambot" class="instagram" target="_blank" title="View Behance"><i class="bx bxl-behance"></i></a>
+          <a href="https://www.linkedin.com/in/jericwhy/" class="linkedin" target="_blank" title="Visit linkedin Profile"><i class="bx bxl-linkedin"></i></a>
+          <a href="tel:+63 976 209 9678" class="whatsapp" target="_blank" title="Call on Whatsapp"><i class="bx bxl-whatsapp" ></i></a>
+          <a href="/assets/img/JYambot CV - 2026.pdf" target="_blank" class="messenger" title="View CV"><i class="bx bxs-file-pdf" ></i></a>
+        </div>
+      </div>
+
+      <nav id="navbar" class="nav-menu navbar">
+        <ul>
+          <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
+           <li><a href="#ToolsandSoftwares" class="nav-link scrollto"><i class="bx bx-cog"></i> <span>Skills & Proficiencies</span></a></li>
+          <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-medal"></i> <span>Curriculum Vitae</span></a></li>
+          <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Projects</span></a></li>
+          <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li>
+          <li><a href="#certificates" class="nav-link scrollto"><i class="bx bx-award"></i> <span>Cerficates</span></a></li>
+           <li><a href="#blogs" class="nav-link scrollto"><i class="bx bx-pencil"></i> <span>Blogs</span></a></li>
+          <li><a href="#contact" class="nav-link scrollto"><i class="bx bx-envelope"></i> <span>Work with me</span></a></li>
+        </ul>
+      </nav><!-- .nav-menu -->
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+    <div class="hero-container" data-aos="fade-in">
+      <h1>Jeric Castillo Yambot</h1>
+      <p>I'm a <span class="typed" data-typed-items="Web & WordPress Developer, Freelancer, Graphic Designer, Technical SEO Engineer & Optimization Strategist"></span></p>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about" style="background-color:#040B14; color:#b9b9b9;">
+      <div class="container">
+        <div class="section-title">
+          <h2 style="color: #30fcda;">About</h2>
+           <div class="content">
+ 
+          The finest in Website Development, Search Engine Optimization, and Professional Graphic Designer. Let your business & Website shine with the latest design techniques contemporary technology has to offer. All projects are custom designed by me while working with clients to create a modern feel that is sleek, clean and functional.
+          <p>A Degree Holder of Science in information Technology Specialized on Web Application Development at Nueva Ecija University of Science and Technology. 
+          	<br><br>Manage Front-End Development, Manage Back-End Development, Generate Plug-Ins and Themes, Performance Monitoring, Participate in Team Client Meetings Conduct WordPress Client Training. Generate leads thru Social Media Platforms, Develop optimization strategies that increase the company's search engine results rankings, Research SEO keywords to use throughout the company's website and marketing materials and Set measurable goals that demonstrate improvement in marketing efforts.</p>
+        </div>
+        <br>   <br>   <br>
+        <div class="row">
+          <div class="col-lg-4" data-aos="fade-right">
+            <img src="../assets/img/profile-img4.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+            <h3 style="color: #30fcda;">Web & WordPress Developer | Website Optimization Specialist | On-Page - Technical SEO Specialist & Thrive Architect Builder</h3>
+            <p class="font-italic">
+              Let's make it happen today
+            </p>
+            <div class="row">
+              <div class="col-lg-6">
+                <ul>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Tech Stack:</strong> <span>Frontend & Backend</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Behance:</strong> <span><a href="https://www.behance.net/jericyambot" target="_blank">behance/jeric</a></span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+63 976 209 9678</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Angeles City, Pampanga</span></li>
+                </ul>
+              </div>
+              <div class="col-lg-6">
+                <ul>
+                <!--   <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>N/A</span></li> -->
+                  <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Bachelor of Science in Information Tech (Web Application Programming)</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>jericyambot134@gmail.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
+                   <li><i class="bi bi-chevron-right"></i> <strong>Years of Expiernce:</strong> <span>9</span></li>
+                </ul>
+              </div>
+            </div>
+            <p>
+             Whether your company already has an existing site, or you're looking to build a new site from the ground up, I can help you design, develop and implement a beautiful website that fits in with your business's brand. I've been working on websites since 2017 and have experience designing, coding and implementing websites for many businesses of all kinds.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Facts Section ======= -->
+    <section id="facts" class="facts">
+      <div class="container">
+        
+        <div class="section-title">
+          <h2>Facts</h2>
+          <p>As a Website Developer/Designer, I provide a range of services to customers both large and small, including: website design, eCommerce development, search engine optimization (SEO) and social media marketing. I work mostly with WordPress and WooCommerce, but am flexible and can create robust solutions using other popular platforms.</p>
+        </div>
+
+        <div class="row no-gutters">
+
+          <div class="col-lg-2 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+            <div class="count-box">
+              <i class="bi bi-emoji-smile"></i>
+              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="3" class="purecounter"></span>
+              <p><strong>Happy Clients</strong></p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
+            <div class="count-box">
+              <i class="bi bi-journal-richtext"></i>
+              <span data-purecounter-start="0" data-purecounter-end="254" data-purecounter-duration="3" class="purecounter"></span>
+              <p><strong>Projects</strong></p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
+            <div class="count-box">
+              <i class="bi bi-headset"></i>
+              <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="3" class="purecounter"></span>
+              <p><strong>Hours Of Support</strong></p>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="1">
+            <div class="count-box">
+              <i class="bi bi-people"></i>
+              <span data-purecounter-start="0" data-purecounter-end="5" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Team</strong></p>
+            </div>
+          </div>
+            <div class="col-lg-2 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="1">
+            <div class="count-box">
+              <i class="bi bi-calendar"></i>
+              <span data-purecounter-start="0" data-purecounter-end="9" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Years of Experience</strong></p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Facts Section -->
+<!-- Add this in your <head> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <!-- ======= Skills Section ======= -->
+    <section id="ToolsandSoftwares" class="skills section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Skills & Proficiencies</h2>
+          <p>Finding a skilled and experienced web developer who understands both the technical and creative aspects of website building can be a challenge. I bring a professional, well-rounded skill set to help bring your digital vision to life—from design to development to performance optimization.
+          <br><p>Below is a summary of the tools and technologies I use, along with my level of proficiency:</p>
+        </div>
+<div class="row skills-content">
+
+  <div class="col-lg-6" data-aos="fade-up">
+
+    <div class="progress">
+      <span class="skill"><i class="fa-brands fa-html5" style="color:#e34c26;"></i> HTML <i class="val">100%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-brands fa-css3-alt" style="color:#1572B6;"></i> CSS | LESS | SASS <i class="val">90%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="90"></div>
+      </div>
+    </div>
+
+     <div class="progress">
+      <span class="skill"><i class="fa-brands fa-bootstrap" style="color:#1572B6;"></i> Bootstrap <i class="val">100%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="100"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-brands fa-js" style="color:#f7df1e;"></i> JavaScript | JQuery | Ajax <i class="val">85%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="85"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-solid fa-envelope" style="color:#f96;"></i> MailChimp / Vision6 / ActiveCampaign <i class="val">100%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="100"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-solid fa-pen-nib" style="color:#ff9a00;"></i> Adobe illustrator <i class="val">90%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="90"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-solid fa-paint-roller" style="color:#6f42c1;"></i> Thrive Themes & Thrive Architect <i class="val">99%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="99"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-brands fa-wordpress" style="color:#96588a;"></i> WooCommerce & Plugin Customization <i class="val">100%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="100"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-brands fa-wordpress-simple" style="color:#96588a;"></i> WooCommerce - Extentions (Request Quote, Custom Variation Swatches, Custom Hooks & Filters) <i class="val">100%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="100"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-solid fa-print" style="color:#555;"></i> PrintIQ System for Printing Company <i class="val">85%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="85"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-solid fa-plug" style="color:#21759b;"></i> WordPress Plugin Integration & Customization (Formilla Chat, Tidio, ACF Pro, Gravity Forms, Smart Sliders 3, WP Sheet Editors, WP Rockets (Caching), Woo-Commerce, Request a Quote - Addify, Max-Mega Menu, Thrive Architect, FileBird, Search WP, Yoast, XML Sitemap) <i class="val">99%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="99"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-solid fa-database" style="color:#2b9348;"></i> Schema | Data Structure (Product Listing on Google Shopping) | Robot.txt | LLMS.txt (for Ai Agent Optimization)<i class="val">99%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="99"></div>
+      </div>
+    </div>
+
+
+    <div class="progress">
+      <span class="skill"><i class="fa-solid fa-level-up" style="color:#2b9348;"></i> GoHigh Level Website migration/Connection | DNS Validation <i class="val">99%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="99"></div>
+      </div>
+    </div>
+
+  </div>
+
+  <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+
+    <div class="progress">
+      <span class="skill"><i class="fa-brands fa-php" style="color:#8892be;"></i> PHP <i class="val">98%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="98"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-brands fa-wordpress" style="color:#21759b;"></i> WordPress/CMS | Custom Plugins | Custom Scripts & Themes <i class="val">100%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="100"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-solid fa-image" style="color:#31a8ff;"></i> Photoshop <i class="val">99%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="99"></div>
+      </div>
+    </div>
+
+       <div class="progress">
+      <span class="skill"><i class="fa-solid fa-bar-chart" style="color:#31a8ff;"></i> Microsoft Clarity  <i class="val">99%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="99"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-solid fa-magnifying-glass-chart" style="color:#333;"></i> SEO (YOAST) <i class="val">99%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="99"></div>
+      </div>
+    </div>
+
+     <div class="progress">
+      <span class="skill"><i class="fa-solid fa-magnifying-glass-chart" style="color:#333;"></i> Programmatic SEO <i class="val">99%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="99"></div>
+      </div>
+    </div>
+
+      <div class="progress">
+      <span class="skill"><i class="fa-solid fa-chart-line" style="color:#eb4924;"></i> Semrush - On Page And Technical SEO<i class="val">99%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="99"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-brands fa-elementor" style="color:#92003b;"></i> Elementor WP plugin <i class="val">85%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="85"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-solid fa-layer-group" style="color:#7f56d9;"></i> Divi WP plugin <i class="val">85%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="85"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-solid fa-tshirt" style="color:#6c757d;"></i> Deconetwork Site Builder for Apparel Printing <i class="val">99%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="99"></div>
+      </div>
+    </div>
+
+
+    <div class="progress">
+      <span class="skill"><i class="fa-solid fa-vial-circle-check" style="color:#0a9396;"></i> Core Web Vitals (GA, Google WebMaster Tools, Google Lightshouse)<i class="val">99%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="99"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-brands fa-figma" style="color:#a259ff;"></i> Figma & Adobe XD<i class="val">99%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="99"></div>
+      </div>
+    </div>
+
+    <div class="progress">
+      <span class="skill"><i class="fa-solid fa-server" style="color:#5a5a5a;"></i> Cloud Web Hosting Setup | DNS Propagation | SSL | CNAME Records | TXT | AAA<i class="val">99%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="99"></div>
+      </div>
+    </div>
+
+       <div class="progress">
+      <span class="skill"><i class="fa-brands fa-squarespace" style="color:#5a5a5a;"></i>SquareSpace Setup to Finish<i class="val">99%</i></span>
+      <div class="progress-bar-wrap">
+        <div class="progress-bar" role="progressbar" aria-valuenow="99"></div>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+
+
+
+
+      </div>
+    </section><!-- End Skills Section -->
+
+    <!-- ======= Resume Section ======= -->
+    <section id="resume" class="resume" style="background-color: #040B14; color:#b9b9b9;">
+      <div class="container">
+
+        <div class="section-title">
+          <h2 style="color: #30fcda;">Curriculum Vitae</h2>
+          <p>Your success is my top priority. My range of services and solutions will help you increase your traffic, boost commercial visibility and expand your business beyond the web. I can turn my clients' dreams into a reality. Expert in providing cost-effective ways to create a lasting impact on your future revenue.</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6" data-aos="fade-up">
+            <h3 class="resume-title" style="color: #30fcda;">Sumary</h3>
+            <div class="resume-item pb-0">
+              <h4>Jeric Yambot</h4>
+              <p><em>Innovative and deadline-driven WordPress Developer with 4+ years of experience designing and developing user-centered Website and Graphics from initial concept to final, polished deliverable.</em></p>
+              <ul>
+                <li>Nueva Ecija - Pampanga</li>
+                <li>+63 976 209 9678 </li>
+                <li>jericyambot134@gmail.com</li>
+              </ul>
+            </div>
+
+            <h3 class="resume-title" style="color: #30fcda;">Education</h3>
+            <div class="resume-item">
+              <h4>Bachelor of Science in Information Technology</h4>
+              <p><em>Major in Web Application Programming</em></p>
+              <h5 style="border-radius: 20px;">2013 - 2017</h5>
+              <p><em>Nueva Ecija University of Science and Technology</em></p>
+              <p>Gold Medalist (Baseball) - Academic Scholar Awardee</p>
+            </div>
+        <!--     <div class="resume-item">
+              <h4>Secondary Education</h4>
+              <h5 style="border-radius: 20px;">2005 - 2009</h5>
+              <p><em>Araullo University</em></p>
+              <p>Cabanatuan City Nueva Ecija</p>
+            </div> -->
+             <h3 class="resume-title" style="color: #30fcda;">Traning, Seminars & Certificates</h3>
+            <div class="resume-item">
+
+               <h4>Google I/O</h4>
+              <p><em>Google I/O Roadshow</em></p>
+              <h5 style="border-radius: 20px;">APRIL 2017</h5>
+              <p><em>Nueva Ecija University of Science and Technology</em></p>
+     
+              <h4>CertiProf</h4>
+              <p><em>Scrum Foundation Professional Certificate</em></p>
+              <h5 style="border-radius: 20px;">JULY 2020</h5>
+              <p><em>IDCP: CLVPBDFYPV-SLZHVZJS-XHMWPSRTHC</em></p>
+            </div>
+              <div class="resume-item">
+              <h4>Alison</h4>
+              <p><em>Adobe Photoshop CS6 Essential Tools</em></p>
+              <h5 style="border-radius: 20px;">JULY 2020</h5>
+              <p><em>ID: 1759-17540377</em></p>
+            </div>
+             <div class="resume-item">
+              <h4>Alison</h4>
+              <p><em>Build WordPress Sites That Attract Free Traffic</em></p>
+              <h5 style="border-radius: 20px;">JULY 2021</h5>
+              <p><em>ID: 2070-17540377</em></p>
+            </div>
+              <div class="resume-item">
+              <h4>Alison</h4>
+              <p><em>WordPress, Divi and Elementor</em></p>
+              <h5 style="border-radius: 20px;">FEB 2022</h5>
+              <p><em>ID: 4434-17540377</em></p>
+            </div>
+            <div class="resume-item">
+              <h4>Alison</h4>
+              <p><em>User Interface Design With Figma</em></p>
+              <h5 style="border-radius: 20px;">MAY 2022</h5>
+              <p><em>ID: 4304-17540377</em></p>
+            </div>
+
+             <div class="resume-item">
+              <h4>Searchable.com</h4>
+              <p><em>AI Summit 2026 Webinar</em></p>
+              <h5 style="border-radius: 20px;">JAN 2026</h5>
+            </div>
+
+          </div>
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <h3 class="resume-title" style="color: #30fcda;">Professional Experience</h3>
+             <div class="resume-item">
+              <h4>Fullstack Developer - Fulltime</h4>
+              <h5 style="background-color:#d2000b; color:#b9b9b9; border-radius: 20px; width: 150px;">&nbsp;2019 - Present</h5>
+              <p><em>Same Day Printing - Melbourne Australia</em></p>
+              <p><em>Outsourced HR Solution - Clark Philippines</em></p>
+              <ul>
+                <li>Manage Front-end & Back-End Development</li>
+                <li>Hardcoded plugin | Function for Website: Product Pricing Calculator, Box & Box Sleeves size Calculator, Conditional Product Displays & Forms</li>
+                <li>Build and launch custom WordPress websites including various third-party, API, Hooks integrations</li>
+                <li>Assist with migrating websites to new hosting environments</li>
+                <li>Customizing Plug-Ins and Themes</li>
+                <li>Custom Woo-Commerce Hooks & Styling</li>
+                <li>OnPage SEO, Web Optimization & Performance Monitoring</li>
+                <li>Keyword Research: Semrush and YOASTseo</li>
+                <li>Keeping site in Organic Search to Google</li>
+                <li>Email Marketing: Mailchimp & ActiveCampaign</li>
+                <li>Managing Marketing Department to Create Assets for Socmed & Email Campaign</li>
+                <li>Assets for Websites & Socmed: Mockups, Product Photoshoots & Illustrations</li>
+                <li>Campaign Metric Monitoring: Google Analytics</li>
+                <li><a href="https://samedayprinting.com.au/" target="_blank">Samedayprinting</a> , <a href="https://samedaytees.com.au/" target="_blank">SamedayTees</a>, <a href="https://somedayprinting.com.au/" target="_blank">SomedayPrinting</a>, , <a href="https://system.samedayprinting.com.au/login.php" target="_blank">Kpi System</a> <br>
+                  <a href="https://wordpressmu-1210334-4288504.cloudwaysapps.com" target="_blank">Sandbox Dev Site WordPress & Woo-Commerce</a>
+                </li>
+              </ul>
+            </div>
+             <div class="resume-item">
+              <h4>Fullstack Developer - Partime</h4>
+              <h5 style="border-radius: 20px;">2021 - Contract</h5>
+              <p><em>Crafted Artsteel Online</em></p>
+              <ul>
+                <li><a href="https://craftedartsteel.online/" target="_blank">CraftedArsteel.Online</a></li>
+              </ul>
+            </div>
+             <div class="resume-item">
+              <h4>WordPress Developer - Freelancer</h4>
+              <h5 style="border-radius: 20px;">2021 - Contract</h5>
+              <p><em>J.Darden Insurance & Financial Service - US</em></p>
+              <ul>
+                <li><a href="https://jackdarden.com/" target="_blank">Jackdaren.com</a></li>
+              </ul>
+            </div>
+           
+            <div class="resume-item">
+              <h4>Chief Webmaster</h4>
+              <h5 style="border-radius: 20px;">2019 - 2019</h5>
+              <p><em>Arsteel Wrought Iron Works</em></p>
+              <ul>
+                <li><a href="https://www.artsteel.ph/" target="_blank">Arsteel.ph</a></li>
+                <li><a href="http://mobile.artsteel.ph/" target="_blank">mobile.Arsteel.ph</a></li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Fullstack System Developer</h4>
+              <h5 style="border-radius: 20px;">2018</h5>
+              <p><em>VTD LAW - SYSTEM for Employee</em></p>
+              <ul>
+                <li><a href="https://www.vtdlaw.ph/" target="_blank">vtdlaw.ph</a></li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Fullstack Developer & Graphic Designer</h4>
+              <h5 style="border-radius: 20px;">2017 - 2019</h5>
+              <p><em>Kinman Noiseless Guitar Pickups</em></p>
+              <ul>
+                <li><a href="https://kinman.com/" target="_blank">kinman.com</a></li>
+                <li><a href="http://www.mobile.kinman.com/" target="_blank">mobile.kinman.com</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Resume Section -->
+
+    <!-- ======= Portfolio Section (Bootstrap Gallery) ======= -->
+<section id="portfolio" class="portfolio section-bg py-5">
+  <div class="container">
+
+    <div class="section-title text-center">
+      <h2 style="text-align: left !important;">Projects</h2>
+      <p style="text-align: left !important;">Click to view deatils of each projects</p>
+    </div>
+
+    <div class="row g-4">
+      <!-- Portfolio Item 1 -->
+
+
+          <style type="text/css">
+         .view-btn {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #040b14;
+  color: white;
+  border: none;
+  padding: 6px 16px;
+  font-size: 0.9rem;
+  border-radius: 4px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+}
+
+/* Hover effect on desktop */
+.portfolio-item:hover .view-btn {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Always show button on small screens */
+@media (max-width: 768px) {
+  .view-btn {
+    opacity: 1;
+    pointer-events: auto;
+  }
+}
+
+
+
+          </style>
+          <div class="col-lg-3 col-md-6">
+      <div class="portfolio-item position-relative">
+        <img src="assets/img/portfolio/sdp-tracker-system.JPG" class="img-fluid rounded shadow" alt="KPI System" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
+        <button class="btn btn-sm btn-primary view-btn" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
+          View Details
+        </button>
+      </div>
+    </div>
+
+
+<!-- Portfolio Item 2 -->
+<div class="col-lg-3 col-md-6">
+  <div class="portfolio-item position-relative">
+    <img src="assets/img/portfolio/SDP-version3web.webp" class="img-fluid rounded shadow" alt="samedayprinting" data-bs-toggle="modal" data-bs-target="#portfolioModal2">
+    <button class="btn btn-sm btn-primary view-btn" data-bs-toggle="modal" data-bs-target="#portfolioModal2">View Details</button>
+  </div>
+</div>
+
+<!-- Portfolio Item 3 -->
+<div class="col-lg-3 col-md-6">
+  <div class="portfolio-item position-relative">
+    <img src="assets/img/portfolio/WooCommerce-AI-Plugins-for-Your-WordPress-Website.png" class="img-fluid rounded shadow" alt="Woo Commerce and WordPress Plugins" data-bs-toggle="modal" data-bs-target="#portfolioModal3">
+    <button class="btn btn-sm btn-primary view-btn" data-bs-toggle="modal" data-bs-target="#portfolioModal3">View Details</button>
+  </div>
+</div>
+
+<!-- Portfolio Item 4 -->
+<div class="col-lg-3 col-md-6">
+  <div class="portfolio-item position-relative">
+    <img src="assets/img/portfolio/vttdlaw.jpg" class="img-fluid rounded shadow" alt="Law Office System" data-bs-toggle="modal" data-bs-target="#portfolioModal4">
+    <button class="btn btn-sm btn-primary view-btn" data-bs-toggle="modal" data-bs-target="#portfolioModal4">View Details</button>
+  </div>
+</div>
+
+<!-- Portfolio Item 5 -->
+<div class="col-lg-3 col-md-6">
+  <div class="portfolio-item position-relative">
+    <img src="assets/img/portfolio/WooCommerce-RequestQuotePlugin.webp" class="img-fluid rounded shadow" alt="Woo Commerce Request A Quote Plugin Integrations" data-bs-toggle="modal" data-bs-target="#portfolioModal5">
+    <button class="btn btn-sm btn-primary view-btn" data-bs-toggle="modal" data-bs-target="#portfolioModal5">View Details</button>
+  </div>
+</div>
+
+<!-- Portfolio Item 6 -->
+<div class="col-lg-3 col-md-6">
+  <div class="portfolio-item position-relative">
+    <img src="assets/img/portfolio/Google Merchant Listing - Data Structure.webp" class="img-fluid rounded shadow" alt="Google Shop Listing | Merchant" data-bs-toggle="modal" data-bs-target="#portfolioModal6">
+    <button class="btn btn-sm btn-primary view-btn" data-bs-toggle="modal" data-bs-target="#portfolioModal6">View Details</button>
+  </div>
+</div>
+
+<!-- Portfolio Item 7 -->
+<div class="col-lg-3 col-md-6">
+  <div class="portfolio-item position-relative">
+    <img src="assets/img/portfolio/AI Agent Optimization.webp" class="img-fluid rounded shadow" alt="Ai agent Optimization using LLMS" data-bs-toggle="modal" data-bs-target="#portfolioModal7">
+    <button class="btn btn-sm btn-primary view-btn" data-bs-toggle="modal" data-bs-target="#portfolioModal7">View Details</button>
+  </div>
+</div>
+
+<!-- Portfolio Item 7 -->
+<div class="col-lg-3 col-md-6">
+  <div class="portfolio-item position-relative">
+    <img src="assets/img/portfolio/CoreWeb Vitals.webp" class="img-fluid rounded shadow" alt="Google Core Web Vital Fixes" data-bs-toggle="modal" data-bs-target="#portfolioModal8">
+    <button class="btn btn-sm btn-primary view-btn" data-bs-toggle="modal" data-bs-target="#portfolioModal8">View Details</button>
+  </div>
+</div>
+
+<!-- Portfolio Item 9 -->
+<div class="col-lg-3 col-md-6">
+  <div class="portfolio-item position-relative">
+    <img src="/assets/img/portfolio/squarespace-johnnaemsnobarsite.webp" class="img-fluid rounded shadow" alt="Square Space" data-bs-toggle="modal" data-bs-target="#portfolioModal9">
+    <button class="btn btn-sm btn-primary view-btn" data-bs-toggle="modal" data-bs-target="#portfolioModal9">View Details</button>
+  </div>
+</div>
+
+
+    </div>
+
+  </div>
+</section>
+<!-- End Portfolio Section -->
+
+<!-- Portfolio Modal 1 -->
+<div class="modal fade" id="portfolioModal1" tabindex="-1" aria-labelledby="portfolioModal1Label" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="portfolioModal1Label">KPI System | Task Tracker for Pre-Press</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <!-- Main Image -->
+        <img id="mainImage1" src="assets/img/portfolio/sdp-tracker-system.JPG" class="img-fluid mb-4" alt="KPI System">
+
+        <!-- Thumbnails Row -->
+        <div class="row g-3">
+          <div class="col-3">
+            <img src="assets/img/portfolio/sdp-tracker-system-preview-1.webp" class="img-fluid rounded shadow thumbnail-img" alt="KPI System" onclick="changeMainImage('assets/img/portfolio/sdp-tracker-system-preview-1.webp', 'User Interface for Adding of New Task for the Designers, Duplicate task function and the Admin Dashboard Navigation')">
+          </div>
+          <div class="col-3">
+            <img src="assets/img/portfolio/sdp-tracker-system-preview-2.webp" class="img-fluid rounded shadow thumbnail-img" alt="Kinman Pickups" onclick="changeMainImage('assets/img/portfolio/sdp-tracker-system-preview-2.webp', 'Report or Statics of Daily, Weekly, Yearly and Ovar All Performance. Calendar Notification and Announcement Boards for Urgent Task are Included.')">
+          </div>
+          <div class="col-3">
+            <img src="assets/img/portfolio/sdp-tracker-system-preview-3.webp" class="img-fluid rounded shadow thumbnail-img" alt="Good Samaritan School" onclick="changeMainImage('assets/img/portfolio/sdp-tracker-system-preview-3.webp', 'Issue function added to the system, So if there is any issue with printing output you can log it here, task will be marked as redflag, you can add supporting images, reason or comments whenever it has an issue, you can also change job issue status (Resovled, Cancel or Rework).')">
+          </div>
+          <div class="col-3">
+            <img src="assets/img/portfolio/sdp-tracker-system-preview-4.webp" class="img-fluid rounded shadow thumbnail-img" alt="Law Office System" onclick="changeMainImage('assets/img/portfolio/sdp-tracker-system-preview-4.webp', 'Responsive for all types of screens, Using Media Queries of Css and An Html Framework Bootstrap!')">
+          </div>
+        </div>
+
+        <!-- Description -->
+        <p class="mt-3" id="imageDescription1">Employee Performance Evaluation System project | Task Tracker for Pre-Press: This project is a hardcoded using Bootstrap, Html, Css, Ajax, Php, MariaDB, Myslqi, Swiper,AOS,SweetAlert, JQueryUI, Fontawesome, Google API</p>
+        <a href="https://system.samedayprinting.com.au/login.php" target="_blank" class="btn btn-primary">Visit Project</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Portfolio Modal 2 -->
+<div class="modal fade" id="portfolioModal2" tabindex="-1" aria-labelledby="portfolioModal2Label" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="portfolioModal2Label">Same Day Printing Woo Commerce | WordPress</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img id="mainImage2" src="assets/img/portfolio/SDP-version3web.webp" class="img-fluid mb-4" alt="Samedayprinting">
+
+        <div class="row g-3">
+          <div class="col-3">
+            <img src="assets/img/portfolio/sdp-WOO-preview-1.webp" class="img-fluid rounded shadow thumbnail-img" alt="Samedaywoo" onclick="changeMainImage('assets/img/portfolio/sdp-WOO-preview-1.webp', 'WordPress with Woo Commerce integrations of Add to Quote plugins, This will allow you to submit your Apparel order with different print positions, you can also upload you print-ready artwork on the form, Admin will be notify thru email. The integration come with the SMTP setup.')">
+          </div>
+          <div class="col-3">
+            <img src="assets/img/portfolio/sdp-WOO-preview-2.webp" class="img-fluid rounded shadow thumbnail-img" alt="Dummy Image" onclick="changeMainImage('assets/img/portfolio/sdp-WOO-preview-2.webp', 'integration of PrintIQ System to Woo Commerce Variable Shop, Using Hooks or API Connections the form will give you realtime pricing, submitting the orders will redirect you the the third party software which is printIQ. It has a floating carts custom made (for woo), Product Review or Feedback with rating modal, Integration also of Gravityforms for the admin Notification of feedback from customers.')">
+          </div>
+          <div class="col-3">
+            <img src="assets/img/portfolio/sdp-WOO-preview-3.webp" class="img-fluid rounded shadow thumbnail-img" alt="Dummy Image" onclick="changeMainImage('assets/img/portfolio/sdp-WOO-preview-3.webp', 'Gravityforms integration together with Woo-Commerce, This form with gives more option to customize your order, you can upload you artwork and add more instruction as per your Requirements! Admin will notify thru email when order is submitted.')">
+          </div>
+          <div class="col-3">
+            <img src="assets/img/portfolio/sdp-WOO-preview-4.webp" class="img-fluid rounded shadow thumbnail-img" alt="Dummy Image" onclick="changeMainImage('assets/img/portfolio/sdp-WOO-preview-4.webp', 'Custom made search function using PHP, JQuery, AJAX. MegaMenu are also integrated without conflicts, mobile responsiveness for the megamenu are also added, Including the search function, with search suggestion, all synonyms, and related keywords are set using relevanssi plugins, add to Quote Basket is added also on the mobile menu.')">
+          </div>
+        </div>
+
+        <p class="mt-3" id="imageDescription2">Re-creation of new Website for Printing Industry, Itegration of Woo-Commerce, PrintIQ, Gravityforms, Add to Quote for Woo-Commerce shop, ACF, Custom Hooks, Custom Plugins Dual Color Variations, Checkout, Add to Cart, PIQCart, User Widgets, MegaMenu, Mobile Responsivess, QuoteCart, </p>
+        <a href="https://wordpressmu-1210334-4288504.cloudwaysapps.com/" target="_blank" class="btn btn-primary">Visit Project</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Portfolio Modal 3 -->
+<div class="modal fade" id="portfolioModal3" tabindex="-1" aria-labelledby="portfolioModal3Label" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="portfolioModal3Label">Woo Commerce Custom Plugin</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img id="mainImage3" src="assets/img/portfolio/WooCommerce-AI-Plugins-for-Your-WordPress-Website.png" class="img-fluid mb-4" alt="Good Samaritan School">
+
+        <div class="row g-3">
+          <div class="col-3">
+            <img src="assets/img/portfolio/Automate-VarationWoo-Custom-Plugin.png" class="img-fluid rounded shadow thumbnail-img" alt="Woo" onclick="changeMainImage('assets/img/portfolio/Automate-VarationWoo-Custom-Plugin.png', 'Automation of woo variation images')">
+          </div>
+       
+
+        <p class="mt-3" id="imageDescription3">Auto Add of Images for Each Woo Variations</p>
+        <a href="https://example.com" target="_blank" class="btn btn-primary">Visit Project</a>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<!-- Portfolio Modal 4 -->
+<div class="modal fade" id="portfolioModal4" tabindex="-1" aria-labelledby="portfolioModal4Label" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="portfolioModal4Label">Law Office System</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img id="mainImage4" src="assets/img/portfolio/vttdlaw.jpg" class="img-fluid mb-4" alt="Law Office System">
+
+        <div class="row g-3">
+          <div class="col-3">
+            <img src="assets/img/portfolio/vttdlaw.jpg" class="img-fluid rounded shadow thumbnail-img" alt="Law Office System" onclick="changeMainImage('assets/img/portfolio/vttdlaw.jpg', 'Law Office System with Invoice and Reports')">
+          </div>
+         
+        </div>
+
+        <p class="mt-3" id="imageDescription4">Law Office System with Invoice and Reports description...</p>
+        <a href="https://example.com" target="_blank" class="btn btn-primary">Visit Project</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+<!-- Portfolio Modal 5 -->
+<div class="modal fade" id="portfolioModal5" tabindex="-1" aria-labelledby="portfolioModal5Label" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="portfolioModal5Label">Woo Commerce with Request A Quote Plugin Integrations & Customization</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img id="mainImage5" src="assets/img/portfolio/WooCommerce-RequestQuotePlugin.webp" class="img-fluid mb-4" alt="Woo-Commerce-Request-A-Quote">
+
+        <div class="row g-3">
+          <div class="col-3">
+            <img src="assets/img/portfolio/sdp-WOO-preview-1.webp" class="img-fluid rounded shadow thumbnail-img" alt="Samedaywoo" onclick="changeMainImage('assets/img/portfolio/sdp-WOO-preview-1.webp', 'WordPress with Woo Commerce integrations of Add to Quote plugins, This will allow you to submit your Apparel order with different print positions, you can also upload you print-ready artwork on the form, Admin will be notify thru email. The integration come with the SMTP setup.')">
+          </div>
+         
+         
+         
+        </div>
+
+        <p class="mt-3" id="imageDescription5">Re-creation of new Website for Printing Industry, Itegration of Woo-Commerce, PrintIQ, Gravityforms, Add to Quote for Woo-Commerce shop, ACF, Custom Hooks, Custom Plugins Dual Color Variations, Checkout, Add to Cart, PIQCart, User Widgets, MegaMenu, Mobile Responsivess, QuoteCart, </p>
+        <a href="https://samedayprinting.com.au/" target="_blank" class="btn btn-primary">Visit Project</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Portfolio Modal 6 -->
+<div class="modal fade" id="portfolioModal6" tabindex="-1" aria-labelledby="portfolioModal6Label" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="portfolioModal6Label">Google Merchant | Google Shop Listing | Schema & Data Structure</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img id="mainImage6" src="assets/img/portfolio/Google Merchant Listing - Data Structure.webp" class="img-fluid mb-4" alt="Google-Merchant-Listing">
+
+        
+
+            <div class="row g-3">
+          <div class="col-3">
+            <img src="assets/img/portfolio/Google Merchant Listing - Data Structure - Output.webp" class="img-fluid rounded shadow thumbnail-img" alt="Google-Merchant-Listing" onclick="changeMainImage('assets/img/portfolio/Google Merchant Listing - Data Structure - Output.webp', 'Here are some actual output from Google Shop Lists, Foil Business Cards, Marketing Cards etc.')">
+          </div>
+           <div class="col-3">
+            <img src="assets/img/portfolio/Google Merchant Listing - Data Structure - Output 2.webp" class="img-fluid rounded shadow thumbnail-img" alt="Google-Merchant-Listing" onclick="changeMainImage('assets/img/portfolio/Google Merchant Listing - Data Structure - Output 2.webp', 'Sample Output from Google Shopping Lists')">
+          </div>
+         
+         
+         
+        </div>
+
+        <p class="mt-3" id="imageDescription6">I develop structured data schemas to enhance website SEO and ensure optimal visibility across search engines. By implementing clean, standards-compliant schema markup, I help improve search rankings and enable rich results for products and content.
+
+I also manage WooCommerce product integration with Google Shopping, including setting up and optimizing feeds in Google Merchant Center. This ensures accurate product listings with correct pricing, images, and descriptions, driving better visibility and performance in search and shopping ads.</p>
+        <a href="https://www.google.com.au/search?q=same+day+foil+business+cards&hl=en&gl=AU&udm=28&shopmd=1#ip=1" target="_blank" class="btn btn-primary">Visit Google Shopping</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Portfolio Modal 7 -->
+<div class="modal fade" id="portfolioModal7" tabindex="-1" aria-labelledby="portfolioModal7Label" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="portfolioModal7Label">Ai Agent Optimization thru LLMS.TXT</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img id="mainImage6" src="assets/img/portfolio/AI Agent Optimization.webp" class="img-fluid mb-4" alt="Google-Merchant-Listing">
+
+        
+
+            <div class="row g-3">
+          <div class="col-3">
+            <img src="assets/img/portfolio/AI Agent Optimization.webp" class="img-fluid rounded shadow thumbnail-img" alt="Google-Merchant-Listing" onclick="changeMainImage('assets/img/portfolio/AI Agent Optimization.webp', 'Here are some actual output from Google Shop Lists, Foil Business Cards, Marketing Cards etc.')">
+          </div>
+               
+         
+        </div>
+
+        <p class="mt-3" id="imageDescription6">The project involves optimizing a website for structured interaction with large language models (LLMs) such as ChatGPT, Claude, Gemini, Perplexity, and similar AI-powered agents.
+
+Using the emerging LLMS.TXT standard (a protocol similar to robots.txt, but designed for LLMs), the goal is to define how AI agents are permitted to access and use content. This initiative enhances AI accessibility, promotes accurate brand representation, and positions the website for visibility in AI-powered search and conversational interfaces.</p>
+        <a href="#" target="_blank" class="btn btn-primary">Visit LLMS Structure</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Portfolio Modal 8 -->
+<div class="modal fade" id="portfolioModal8" tabindex="-1" aria-labelledby="portfolioModal8Label" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="portfolioModal8Label">Core Web Vitals</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img id="mainImage6" src="assets/img/portfolio/CoreWeb VitalsSame Day.webp" class="img-fluid mb-4" alt="Google-Core-Web-Vitals">
+
+        
+
+            <div class="row g-3">
+          <div class="col-3">
+            <img src="assets/img/portfolio/CoreWeb VitalsSame Day.webp" class="img-fluid rounded shadow thumbnail-img" alt="Google-Core-Web-Vitals" onclick="changeMainImage('assets/img/portfolio/CoreWeb VitalsSame Day.webp', 'Here are some actual output from Google Shop Lists, Foil Business Cards, Marketing Cards etc.')">
+          </div>
+               
+         
+        </div>
+
+        <p class="mt-3" id="imageDescription8">Led the end-to-end development and optimization of a custom WooCommerce eCommerce platform, implementing advanced quoting workflows, dynamic apparel size matrices, AJAX-driven UI updates, and performance-focused architecture. Built and customized plugins, integrated third-party systems, enhanced structured data for SEO, and optimized site speed while maintaining scalability and maintainability. Delivered a streamlined user experience for both customers and administrators, combining technical precision with business-focused functionality.</p>
+        <a href="https://pagespeed.web.dev/analysis/https-samedayprinting-com-au/keaygyutl9?form_factor=desktop" target="_blank" class="btn btn-primary">Test Website</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Portfolio Modal 9 -->
+<div class="modal fade" id="portfolioModal9" tabindex="-1" aria-labelledby="portfolioModal9Label" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="portfolioModal8Label">Square Space Personal Website</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <img id="mainImage9" src="assets/img/portfolio/squarespace-johnnaemsnobarsite.webp" class="img-fluid mb-4" alt="Google-Core-Web-Vitals">
+
+        
+
+            <div class="row g-3">
+          <div class="col-3">
+            <img src="assets/img/portfolio/squarespace-johnnaemsnobarsite.webp" class="img-fluid rounded shadow thumbnail-img" alt="SquareSpace" onclick="changeMainImage('assets/img/portfolio/squarespace-johnnaemsnobarsite.webp', 'Here are some actual output from Google Shop Lists, Foil Business Cards, Marketing Cards etc.')">
+          </div>
+               
+         
+        </div>
+
+       <p class="mt-3" id="imageDescription9">
+      I designed and developed a modern, responsive website for <strong>John Na’em Snobar</strong>, Director of Advocacy for Palestinian Christians in Australia, with a focus on clarity, accessibility, and strong content presentation.
+      </p>
+
+      <p>
+      A key part of this project involved a full content migration from Ghost CMS to Squarespace. I handled the end-to-end migration process, including:
+      </p>
+
+         <ul>
+        <li>Exporting content from Ghost into JSON format</li>
+        <li>Converting and restructuring data into WordPress XML format for compatibility</li>
+        <li>Importing and rebuilding content within Squarespace</li>
+        <li>Migrating pages, blog posts, and contacts while preserving structure and integrity</li>
+        <li>Configuring DNS settings, including CNAME records and monitoring domain propagation for a smooth launch</li>
+      </ul>
+
+      <p>
+      In addition, I implemented SEO best practices, including optimized meta tags, descriptions, and content structure to improve search visibility and performance.
+      </p>
+
+      <p>
+      The final result is a clean, high-performing website that accurately represents the client’s advocacy work while maintaining content consistency across platforms.
+      </p>
+        <a href="https://johnnaemsnobar.com/" target="_blank" class="btn btn-primary">Visit</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <!-- Optional: Embedded content -->
+<!--     <div class="embed-container">
+      <iframe src="https://www.behance.net/gallery/160904153/Website-Revamp-%28Mockup-Layout%29-Same-Day-Printing?iframe=1&amp;ilo0=1" style="border: 0; width: 100%; height: 500px;" allowfullscreen></iframe>
+    </div> -->
+
+  <div class="container">
+  <div class="row">
+    <!-- Column 1 -->
+    <div class="col-md-3 mb-4 px-2">
+      <div class="ratio ratio-16x9">
+        <iframe src="https://www.behance.net/embed/project/221310761?ilo0=1" allowfullscreen frameborder="0" allow="clipboard-write" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+      </div>
+    </div>
+    <!-- Column 2 -->
+    <div class="col-md-3 mb-4 px-2">
+      <div class="ratio ratio-16x9">
+        <iframe src="https://www.behance.net/embed/project/197510613?ilo0=1" allowfullscreen frameborder="0" allow="clipboard-write" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+      </div>
+    </div>
+    <!-- Column 3 -->
+    <div class="col-md-3 mb-4 px-2">
+      <div class="ratio ratio-16x9">
+        <iframe src="https://www.behance.net/embed/project/192217093?ilo0=1" allowfullscreen frameborder="0" allow="clipboard-write" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+      </div>
+    </div>
+    <!-- Column 4 -->
+    <div class="col-md-3 mb-4 px-2">
+      <div class="ratio ratio-16x9">
+        <iframe src="https://www.behance.net/embed/project/184058881?ilo0=1" allowfullscreen frameborder="0" allow="clipboard-write" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row">
+    <!-- Column 1 -->
+    <div class="col-md-3 mb-4 px-2">
+      <div class="ratio ratio-16x9">
+        <iframe src="https://www.behance.net/embed/project/187065273?ilo0=1" allowfullscreen frameborder="0" allow="clipboard-write" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+      </div>
+    </div>
+    <!-- Column 2 -->
+    <div class="col-md-3 mb-4 px-2">
+      <div class="ratio ratio-16x9">
+        <iframe src="https://www.behance.net/embed/project/176281405?ilo0=1" allowfullscreen frameborder="0" allow="clipboard-write" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+      </div>
+    </div>
+    <!-- Column 3 -->
+    <div class="col-md-3 mb-4 px-2">
+      <div class="ratio ratio-16x9">
+        <iframe src="https://www.behance.net/embed/project/160904153?ilo0=1" allowfullscreen frameborder="0" allow="clipboard-write" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+      </div>
+    </div>
+    <!-- Column 4 -->
+    <div class="col-md-3 mb-4 px-2">
+      <div class="ratio ratio-16x9">
+        <iframe src="https://www.behance.net/embed/project/157680593?ilo0=1" allowfullscreen frameborder="0" allow="clipboard-write" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row">
+    <!-- Column 1 -->
+    <div class="col-md-3 mb-4 px-2">
+      <div class="ratio ratio-16x9">
+        <iframe src="https://www.behance.net/embed/project/143392115?ilo0=1" allowfullscreen frameborder="0" allow="clipboard-write" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+      </div>
+    </div>
+    <!-- Column 2 -->
+    <div class="col-md-3 mb-4 px-2">
+      <div class="ratio ratio-16x9">
+        <iframe src="https://www.behance.net/embed/project/132404897?ilo0=1" allowfullscreen frameborder="0" allow="clipboard-write" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+      </div>
+    </div>
+    <!-- Column 3 -->
+    <div class="col-md-3 mb-4 px-2">
+      <div class="ratio ratio-16x9">
+        <iframe src="https://www.behance.net/embed/project/123364289?ilo0=1" allowfullscreen frameborder="0" allow="clipboard-write" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+      </div>
+    </div>
+    <!-- Column 4 -->
+    <div class="col-md-3 mb-4 px-2">
+      <div class="ratio ratio-16x9">
+        <iframe src="https://www.behance.net/embed/project/120167287?ilo0=1" allowfullscreen frameborder="0" allow="clipboard-write" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+  </div>
+
+<!-- JavaScript to change main image and description -->
+<script>
+  function changeMainImage(imageSrc, description) {
+    // Determine which modal is currently open and change its main image and description
+    var modalId = document.querySelector('.modal.show').id; // Get the ID of the currently open modal
+    document.getElementById('mainImage' + modalId.charAt(modalId.length - 1)).src = imageSrc;
+    document.getElementById('imageDescription' + modalId.charAt(modalId.length - 1)).textContent = description;
+  }
+</script>
+
+<!-- Styling -->
+<style type="text/css">
+  .thumbnail-img {
+    cursor: pointer;
+    border: 2px solid transparent;
+    transition: border 0.2s ease;
+  }
+
+  .thumbnail-img:hover {
+    border: 2px solid #007bff;
+  }
+
+  .modal-body img {
+    max-height: 550px; /* Adjust to limit the height of the main image */
+    width: 100%;
+    object-fit: contain;
+  }
+  .modal{
+    z-index:999999;
+  }
+
+
+</style>
+
+
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Services</h2>
+          
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
+            <div class="icon"><i class="bi bi-brush"></i></div>
+            <h4 class="title"><a href="">UI/UX Design</a></h4>
+           <!--  <p class="description">Look and Feel, Responsiveness and Interactivity.User experience design is a human-first way of designing products.</p> -->
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+            <div class="icon"><i class="bi bi-card-checklist"></i></div>
+            <h4 class="title"><a href="">Website Optimization & OnPage SEO</a></h4>
+            <!-- <p class="description">Mobile-dedicated sites,Web apps,Responsive-design sites, features or content that have been deemed appropriate for mobile.</p> -->
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon"><i class="bi bi-bar-chart"></i></div>
+            <h4 class="title"><a href="">Website Development and Maintenance</a></h4>
+           <!--  <p class="description">specializes in, or is specifically engaged in, the development of World Wide Web applications, or applications that are run over HTTP: CSS OR HTML from a web server to a web browser.</p> -->
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
+            <div class="icon"><i class="bi bi-pen"></i></div>
+            <h4 class="title"><a href="">Illustration</a></h4>
+            <!-- <p class="description">Brainstorming ideas, sketching, creating draft illustrations, discussing ideas with client and finalizing illustrations.</p> -->
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+            <div class="icon"><i class="bi bi-image"></i></div>
+            <h4 class="title"><a href="">Graphic Design</a></h4>
+            <!-- <p class="description">Creating a logo for a company is an important part of the marketing process. A logo can be a symbol, text, or image that is a visual interpretation of what a business stands for.</p> -->
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
+            <div class="icon"><i class="bi bi-calendar4-week"></i></div>
+            <h4 class="title"><a href="">Software/Hardware</a></h4>
+            <!-- <p class="description">Experienced in hardware and software troubleshooting.</p> -->
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+        <!-- ======= CERTS Section ======= -->
+    <section id="certificates" class="portfolio section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Certificates / Awards</h2>
+      
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/Wordpress Divi Elementor.jpg" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/Wordpress Divi Elementor.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Master of WordPress, Divi and Elementor"><i class="bx bx-plus"></i></a>
+                <a href="https://alison.com/certification/check/%242y%2410%24jN2UEyZm1QVuEnEgTgGel.r0iIYFXplbHnlOKO59o57NMSIOgksa" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/Build WordPress Sites That Attract Free Traffic - CERT.jpg" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/Build WordPress Sites That Attract Free Traffic - CERT.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Build WordPress Sites That Attract Free Traffic"><i class="bx bx-plus"></i></a>
+                <a href="https://alison.com/certification/check/%242y%2410%242o9ZIn54TcOc65mnqAUJ7urkN2tvx0mQ7.8TM3b5nQf7J0mg70XXa" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/CS6 Essential Tools.jpg" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/CS6 Essential Tools.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="CS6 Essential Tools"><i class="bx bx-plus"></i></a>
+                <a href="https://alison.com/certification/check/%242y%2410%24LNakK0H4xuvEBNZj9dftu46wOFS5.aJLOqjxQ7jcf8KFRp4ziMzm" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/1597814440562.jfif" class="img-fluid" alt="">
+              <div class="portfolio-links">
+              <!--   <a href="assets/img/1597814440562.jfif" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Scrum Foundation Professional Certificate (SFPC)"><i class="bx bx-plus"></i></a> -->
+              <!--   <a href="#" target="_blank" title="More Details"><i class="bx bx-link"></i></a> -->
+              </div>
+            </div>
+          </div>
+            <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/User Interface Design With Figma.jpg" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/figma.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="User Interface Design With Figma"><i class="bx bx-plus"></i></a>
+                <a href="https://alison.com/certification/check/%242y%2410%24FICSqM1kEocwYcbLwQv.eKIKc5xkczsjmsBK.7LDaBjptQtKbku" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+             <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/AdobeXD.jpg" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/AdobeXD.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="User Interface Design With Figma"><i class="bx bx-plus"></i></a>
+                <a href="https://alison.com/certification/check/2y1036jgyYjwf3XC9Mm4JEzsBuhQnflOLOYOftceRn47SRWkpioL3Mhs2" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/Capstone-Panelist.jpeg" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/Capstone-Panelist.jpeg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Capstone Panelist for Student's Final School Requirements"><i class="bx bx-plus"></i></a>
+                <a href="#" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+      
+
+        </div>
+            
+
+      </div>
+    </section><!-- End CERTS Section -->
+
+
+
+<!-- ======= Blogs / Tips / Knowledge Base ======= -->
+<section id="blogs" class="services">
+  <div class="container">
+
+    <div class="section-title">
+      <h2>Blogs</h2>
+    </div>
+
+    <div class="row g-4" data-aos="fade-up" data-aos-delay="100">
+
+      <!-- Blog Card 1 -->
+      <div class="col-12 col-md-6 col-lg-4">
+        <div class="card h-100">
+          <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*XC8OtYn4VPSSf2wxlDbgbQ.jpeg" class="card-img-top" alt="Capstone Panelist">
+          <div class="card-body">
+            <h5 class="card-title"><strong>Journey Into Becoming What You’re Dreaming</strong></h5>
+            <p class="card-text">
+              The office lights had gone out, but my room glowed blue with the light of my laptop screen. It was 2 a.m., and I was stuck on a broken piece of code. Exhausted, ready to quit and then suddenly, it worked....
+            </p>
+            <a href="https://medium.com/@jericyambot134/journey-into-becoming-what-youre-dreaming-2f9e805900e0" target="_blank" class="btn btn-primary">Read more</a>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- Blog Card 1 -->
+      <div class="col-12 col-md-6 col-lg-4">
+        <div class="card h-100">
+          <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*ZAVepn-CXIJGNNoqafCErQ.png" class="card-img-top" alt="Capstone Panelist">
+          <div class="card-body">
+            <h5 class="card-title"><strong>When Life Feels Like a Pause Button, Here’s What’s Really Happening.</strong></h5>
+            <p class="card-text">
+              Cars hummed around me, engines idling, everyone waiting for the same green signal. For a moment, the whole street was frozen — no one moving forward, no one going back. Just… waiting....
+            </p>
+            <a href="https://medium.com/@jericyambot134/when-life-feels-like-a-pause-button-heres-what-s-really-happening-2498b7363dd1" target="_blank" class="btn btn-primary">Read more</a>
+          </div>
+        </div>
+      </div>
+
+     
+
+   
+
+    </div>
+  </div>
+</section>
+<!-- End Blogs Section -->
+
+
+
+
+    <!-- ======= Testimonials Section ======= -->
+    <section id="testimonials" class="testimonials section-bg" style="display: none;">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Testimonials</h2>
+          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+        </div>
+
+        <div class="testimonials-slider swiper-container" data-aos="fade-up" data-aos-delay="100">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-item" data-aos="fade-up">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+                <h3>Saul Goodman</h3>
+                <h4>Ceo &amp; Founder</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item" data-aos="fade-up" data-aos-delay="100">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+                <h3>Sara Wilsson</h3>
+                <h4>Designer</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item" data-aos="fade-up" data-aos-delay="200">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+                <h3>Jena Karlis</h3>
+                <h4>Store Owner</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item" data-aos="fade-up" data-aos-delay="300">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                <h3>Matt Brandon</h3>
+                <h4>Freelancer</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item" data-aos="fade-up" data-aos-delay="400">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+                <h3>John Larson</h3>
+                <h4>Entrepreneur</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Testimonials Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact" style="background-color: #040B14; color: #b9b9b9;">
+      <div class="container">
+
+        <div class="section-title">
+          <h2 style="color: #30fcda;">Work with me</h2>
+          <p>If you are ready to take your business to the next level and need a new Website or Marketing Materials that is sure to impress, contact me about developing a custom website or to create a graphics for you. I work with small businesses and large corporations alike, ensuring each client gets not only the perfect layout, but also that their voice is heard every step of the way.</p>
+        </div>
+
+        <div class="row" data-aos="fade-in">
+
+          <div class="col-lg-12 d-flex align-items-stretch">
+            <div class="info">
+              <div class="address">
+                <i class="bi bi-geo-alt"></i>
+                <h4>Location:</h4>
+                <p>Angeles City, Pampanga</p>
+              </div>
+
+              <div class="email">
+                <i class="bi bi-envelope"></i>
+                <h4>Email:</h4>
+                <p><a href="mailto:jericyambot134@gmail.com">jericyambot134@gmail.com</a></p>
+              </div>
+
+              <div class="phone">
+                <i class="bi bi-phone"></i>
+                <h4>Call:</h4>
+                <p><a href="tel:09762099678">+63 976 209 9678</a></p>
+              </div>
+
+              <iframe src="https://maps.google.com/maps?q=angeles%20city%20pampanga&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+            </div>
+
+          </div>
+
+      <div class="col-lg-5 d-flex align-items-stretch">
+    <div class="info" style="display:none !important;">
+        <form action="/contact.php" method="post" role="form" class="php-email-form">
+            <div class="row">
+                <div class="form-group col-md-6">
+                    <label for="name">Your Name</label>
+                    <input type="text" name="name" class="form-control" id="name" required>
+                </div>
+                <div class="form-group col-md-6">
+                    <label for="email">Your Email</label>
+                    <input type="email" class="form-control" name="email" id="email" required>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="subject">Subject</label>
+                <input type="text" class="form-control" name="subject" id="subject" required>
+            </div>
+            <div class="form-group">
+                <label for="message">Message</label>
+                <textarea class="form-control" name="message" rows="10" required></textarea>
+            </div>
+
+            <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+            </div>
+            <div class="text-center"><button type="submit">Send Message</button></div>
+        </form>
+    </div>
+</div>
+
+
+      
+
+
+       <!--   -->
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <div class="copyright" style="display: none;">
+        &copy; Copyright <strong><span><?php echo date ('Y'); ?></span></strong>
+      </div>
+      <div class="credits" style="font-size: 10px !important;">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
+       &copy; Copyright <strong><span><?php echo date ('Y'); ?></span></strong>  Designed by <a href="#">Jeric Yambot </a>
+      </div>
+    </div>
+  </footer><!-- End  Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+<script>
+  // Function to add the 'visible' class to the element after a delay
+  function fadeInElement() {
+    document.getElementById('content').classList.add('visible');
+  }
+
+  // Trigger the fadeInElement function when the page finishes loading
+  window.addEventListener('load', fadeInElement);
+</script>
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/purecounter/purecounter.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.min.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
