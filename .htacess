@@ -1,4 +1,1 @@
-RewriteEngine On
 
-RewriteCond %{HTTP_HOST} ^jeric\.infinityfreeapp\.com$ [NC]
-RewriteRule ^(.*)$ https://webdeveloperjek.github.io/$1 [R=301,L,NE]
